@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232187467907",
+    "firebase_url": "https://materialprestado.firebaseio.com",
+    "project_id": "materialprestado",
+    "storage_bucket": "materialprestado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232187467907:android:ab887808be0e270565e3b6",
+        "android_client_info": {
+          "package_name": "com.integradora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232187467907-fu0g8leon4344hu97b2kigsttjprcpsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALeJywBRMlbNH9DK6txZiqh8DwGTFzrR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232187467907-fu0g8leon4344hu97b2kigsttjprcpsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
